@@ -1,0 +1,64 @@
+{
+  "data" : [
+    [
+      {
+        "numEnemy": 1
+      }
+    ],
+    [
+      {
+        "numEnemy": 1
+      },
+      {
+        "numEnemy": 3
+      }
+
+    ],
+    [
+      {
+        "numEnemy": 2
+      },
+      {
+        "numEnemy": 4
+      },
+      {
+        "numEnemy": 6
+      }
+
+    ],
+    [
+      {
+        "numEnemy": 4
+      },
+      {
+        "numEnemy": 6
+      },
+      {
+        "numEnemy": 8
+      },
+      {
+        "numEnemy": 10
+      }
+    ],
+    [
+      {
+        "numEnemy": 5
+      },
+      {
+        "numEnemy": 6
+      },
+      {
+        "numEnemy": 7
+      },
+      {
+        "numEnemy": 8
+      },
+      {
+        "numEnemy": 9
+      },
+      {
+        "numEnemy": 10
+      }
+    ]
+  ]
+}
